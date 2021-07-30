@@ -65,7 +65,7 @@ I'm Jason Ahn, currently a Computer Systems Technology student at the British Co
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
 
-#### Github Stats
+#### Github Stat
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-ahn94&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
