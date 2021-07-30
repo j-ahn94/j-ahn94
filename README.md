@@ -72,6 +72,9 @@ I'm Jason Ahn, currently a Computer Systems Technology student at the British Co
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 #### Github Stats
