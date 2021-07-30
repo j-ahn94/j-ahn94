@@ -52,7 +52,7 @@ I'm Jason Ahn, currently a Computer Systems Technology student at the British Co
 <br />
 
 #### Resume
-- :paperclip: [My Resume/CV](https://github.com/j-ahn94/j-ahn94/blob/master/resumes/JasonAhn_Resume.pdf)
+- :paperclip: [My Resume/CV](https://github.com/j-ahn94/j-ahn94/blob/master/JasonAhn_Resume.pdf)
 
 
 #### Profile Visits
