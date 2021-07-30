@@ -51,21 +51,19 @@ I'm Jason Ahn, currently a Computer Systems Technology student at the British Co
 <br />
 <br />
 
-#### Bizness
-- :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf)
-- :email: ipenywis@gmail.com
+#### Resume
+- :paperclip: [My Resume/CV](https://github.com/j-ahn94/j-ahn94/blob/master/resumes/JasonAhn_Resume.pdf)
 
 
 #### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=j-ahn94.j-ahn94)
 
 
-
 #### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=ipenywis.ipenywis)
 
-#### Github Stat
+#### Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-ahn94&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -76,8 +74,6 @@ I'm Jason Ahn, currently a Computer Systems Technology student at the British Co
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-
-#### Github Stats
 
 
 [reactplaylist]: https://www.youtube.com/watch?v=KxXXEL-k47Y&list=PLvXDmnBbOF7RnYiZvDwl2Pzcs2kfi10wd
