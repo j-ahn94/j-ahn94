@@ -1,6 +1,6 @@
 ## Welcome! I'm Jason <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm Jason Ahn, currently a Computer Systems Technology student at the British Columbia Institute of Technology. I spend most of my time learning new programming languages and think about outstanding projects! [Youtube](https://youtube.com/coderone).
+I'm Jason Ahn, currently a Computer Systems Technology student at the British Columbia Institute of Technology. I spend most of my time learning new programming languages and think about outstanding projects! First off, check out my website! [JSON AHN](https://www.jsonahn.com).
 
 :mailbox: Reach me out!
 
