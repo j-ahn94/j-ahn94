@@ -18,6 +18,8 @@ I'm Jason Ahn, currently a Computer Systems Technology student at the British Co
 - 🚨 Professional work experiences in IT Management and Security Policy
 - 📷🎲 Fun facts: I am an amateur photographer and beginner Rubix player.
 
+<br />
+<br />
 
 #### 🚀 Programming Languages
 
@@ -32,6 +34,7 @@ I'm Jason Ahn, currently a Computer Systems Technology student at the British Co
     <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
 </p>
 
+<br />
 
 ### 👨‍ Libraries & Frameworks
 <p align="left">
@@ -43,6 +46,8 @@ I'm Jason Ahn, currently a Computer Systems Technology student at the British Co
     <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/django.png"/> </a>
 </p>
 
+<br />
+
 ### 🌱 Tools & Platforms
 <p align = "left">
     <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"            alt="mongodb" width="48" height="48"/> </a>
@@ -52,6 +57,8 @@ I'm Jason Ahn, currently a Computer Systems Technology student at the British Co
     <a href="https://www.sourcetreeapp.com/" target="_blank"> <img src="https://img.icons8.com/windows/32/000000/sourcetree.png"/> </a>
     <a href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/ios/50/000000/mysql.png"/> </a>
 </p>
+
+<br />
 
 ### 🔥 Design
 <p align = "left">
