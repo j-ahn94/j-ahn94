@@ -19,7 +19,6 @@ I'm Jason Ahn, currently a Computer Systems Technology student at the British Co
 - 📷🎲 Fun facts: I am an amateur photographer and beginner Rubix player.
 
 <br />
-<br />
 
 #### 🚀 Programming Languages
 
