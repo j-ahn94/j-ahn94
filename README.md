@@ -12,7 +12,7 @@ I'm Jason Ahn, currently a Computer Systems Technology student at the British Co
 ## 🙋‍♂️ About Me
 
 - 👔 I’m currently looking for software development || cybersecurity internship opportunities.
-- 💻 Most used line of code `git commit -m "Initial Commit"`
+- 💻 I love learning Data Structure and Algorithms
 - 📫 How to reach me: JasonJA.Ahn@gmail.com
 - 😄 Pronouns: lokihardt, J.
 - 🚨 Professional work experiences in IT Management and Security Policy
