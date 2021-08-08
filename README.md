@@ -74,14 +74,18 @@ I'm Jason Ahn, currently a Computer Systems Technology student at the British Co
 #### Resume
 - :paperclip: [My Resume/CV](https://github.com/j-ahn94/j-ahn94/blob/master/JasonAhn_Resume.pdf)
 
+<br />
 
 #### Profile Visits
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=j-ahn94.j-ahn94)
 
+<br />
 
 #### Github Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=j-ahn94&hide=contribs,prs&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
 
 #### Coding Stats
 
