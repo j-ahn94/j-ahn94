@@ -91,7 +91,8 @@ I'm Jason Ahn, currently a Computer Systems Technology student at the British Co
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+CSS    1 hr 21 mins    ██████████████████████▒░░   88.77 % 
+HTML   10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.23 % 
 ```
 <!--END_SECTION:waka-->
 
