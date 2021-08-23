@@ -11,11 +11,12 @@ I'm Jason Ahn, currently a Computer Systems Technology student at the British Co
 <!-- TODO: Add last video link -->
 ## 🙋‍♂️ About Me
 
+- 🚨 Professional work experiences in IT Management and Security Policy
+- 🚨 Received Canadian Top-Secret Clearance
 - 👔 I’m currently looking for software development || cybersecurity internship opportunities.
 - 💻 I love learning Data Structure and Algorithms
 - 📫 How to reach me: JasonJA.Ahn@gmail.com
 - 😄 Pronouns: lokihardt, J.
-- 🚨 Professional work experiences in IT Management and Security Policy
 - 📷🎲 Fun facts: I am an amateur photographer and beginner Rubix player.
 
 <br />
