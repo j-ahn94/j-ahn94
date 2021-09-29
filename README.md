@@ -92,9 +92,9 @@ I'm Jason Ahn, currently a Computer Systems Technology student at the British Co
 
 <!--START_SECTION:waka-->
 ```text
-Java   8 hrs 36 mins   ████████████████████████▓   98.59 % 
-JSON   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
-INI    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Java   9 hrs 31 mins   ████████████████████████▓   98.72 % 
+JSON   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 % 
+INI    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
 ```
 <!--END_SECTION:waka-->
 
