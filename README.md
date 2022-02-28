@@ -91,9 +91,11 @@ I'm Jason Ahn, currently a Computer Systems Technology student at the British Co
 #### Coding Stats
 
 <!--START_SECTION:waka-->
+
 ```text
-No Activity tracked this Week
+No activity tracked
 ```
+
 <!--END_SECTION:waka-->
 
 
